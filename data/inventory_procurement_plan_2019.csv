@@ -1,0 +1,13 @@
+Date,Predicted_Sales,Expected_COGS,Safety_Stock_Buffer ($),Reorder_Point ($),Est_Holding_Cost ($),Staffing_Index,Operational_Action
+2019-01-01,50887.4,44543.15,16199.17,41642.86,269.99,0.74,"Trough: Schedule Maintenance, Training, and Consolidate Inventory"
+2019-02-01,38415.16,33625.86,16199.17,35406.75,269.99,0.56,"Trough: Schedule Maintenance, Training, and Consolidate Inventory"
+2019-03-01,65399.87,57246.33,16199.17,48899.1,269.99,0.95,Normal Operations: Standard Shift Scheduling
+2019-04-01,46721.18,40896.35,16199.17,39559.76,269.99,0.68,"Trough: Schedule Maintenance, Training, and Consolidate Inventory"
+2019-05-01,56549.82,49499.64,16199.17,44474.08,269.99,0.82,Normal Operations: Standard Shift Scheduling
+2019-06-01,58429.86,51145.28,16199.17,45414.1,269.99,0.85,Normal Operations: Standard Shift Scheduling
+2019-07-01,54992.39,48136.37,16199.17,43695.36,269.99,0.8,"Trough: Schedule Maintenance, Training, and Consolidate Inventory"
+2019-08-01,67796.61,59344.26,16199.17,50097.47,269.99,0.98,Normal Operations: Standard Shift Scheduling
+2019-09-01,91561.4,80146.24,16199.17,61979.87,269.99,1.32,High Peak: Onboard Temporary / Seasonal Staff & Expand Shifts
+2019-10-01,84513.36,73976.89,16199.17,58455.84,269.99,1.22,Normal Operations: Standard Shift Scheduling
+2019-11-01,119171.36,104314.0,16199.17,75784.84,269.99,1.72,High Peak: Onboard Temporary / Seasonal Staff & Expand Shifts
+2019-12-01,94806.14,82986.46,16199.17,63602.24,269.99,1.37,High Peak: Onboard Temporary / Seasonal Staff & Expand Shifts
